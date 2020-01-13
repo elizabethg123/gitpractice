@@ -1,4 +1,13 @@
 One
 two
+<<<<<<< HEAD
 ready?
 Go!
+=======
+three
+yada
+yada 
+yada
+test 
+test
+>>>>>>> 115e797958313144e6b3aa04f8d08e4cce94ed53
